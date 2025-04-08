@@ -17,7 +17,7 @@ DEVELOP BY GMGANGADEVI
 REF NO.212224240042
 ```
 import numpy as np
-a=np.array([[3,2,5],[1,1,2],[3,3,6]])
+a=np.array([[5,3,-10],[2,3,-3],[-3,-1,5]])
 sol=np.linalg.matrix_rank(a)
 print(sol)
 ```
